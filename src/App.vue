@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <h1>学生系统管理</h1>
+    <img src="./assets/bg.jpg">
     <router-view/>
   </div>
 </template>
